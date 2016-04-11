@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="demo_text">asdasdasd</string>
+    <string name="text_message">text</string>
 </resources>
